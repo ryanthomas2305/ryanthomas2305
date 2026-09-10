@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Ryan (@ryanthomas2305) 👋
 
-<!--
-**ryanthomas2305/ryanthomas2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a freelance frontend dev based in Paris. I focus on building fast, accessible web interfaces and design systems that don't fall apart.
 
-Here are some ideas to get you started:
+### What I'm up to
+- 🛠️ Building production web apps with **Next.js**, **TypeScript**, and **Tailwind CSS**
+- 📦 Working with **Vite** tooling and lightweight state managers (Zustand)
+- 🧪 Improving test coverage patterns with Vitest and Playwright
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- **Core:** TypeScript, JavaScript, HTML5, Modern CSS
+- **Frameworks / Libraries:** React, Next.js, TailwindCSS, TanStack Query
+- **Tooling:** Vite, Node.js, Git, pnpm, Figma
+
+### Reach out
+- Email: [ryan.thomas.freelance@gmail.com](mailto:ryan.thomas.freelance@gmail.com)
+- LinkedIn: [linkedin.com/in/ryanthomas2305](https://linkedin.com)
+- Personal site: [ryanthomas.dev](https://ryanthomas.dev)
